@@ -1,0 +1,6 @@
+# Keep local renders and source-archive audio out of the public repository.
+audio/
+*.mp3
+*.wav
+*.m4a
+.DS_Store
