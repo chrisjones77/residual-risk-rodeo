@@ -5,6 +5,8 @@ Narrator: the full committee
 Hazard: isolation and loss of shared rhythm  
 Emotional turn: music becomes a practical way to listen, remember, and coordinate
 
+> **Satirical control disclaimer:** Banjo is a fictional narrative control. It does not isolate energy, prevent access, replace guarding, or qualify anyone to perform hazardous work.
+
 ## Chorus seed
 
 Banjo as control, keep the people in the song / Not a guard against the river, just a way to move along.
