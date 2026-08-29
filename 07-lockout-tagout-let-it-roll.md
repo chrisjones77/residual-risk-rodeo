@@ -5,13 +5,15 @@ Narrator: the maintenance crew
 Hazard: stored energy and assumptions  
 Emotional turn: the pause before work becomes an expression of respect
 
+**Safety note:** This track is fictional industrial folklore and satire. Any procedural-sounding language is used for poetic effect only and does not constitute real-world lockout/tagout or energy-isolation guidance. Always follow your organization's safety procedures and applicable regulations when working with hazardous energy.
+
 ## Chorus seed
 
-Lock it out, tag it out, prove the line is cold / Then let the fiddle find the current and let the banjo roll.
+We sing of locks and tags like old workshop lore / Then let the fiddle find the current and let the banjo roll.
 
 ## Generation prompt
 
-Hard-driving workshop bluegrass-metal track with machine-tight banjo, fiddle, flat-picked guitar, upright bass, kick drum, and percussion resembling chains set down safely, breaker handles, and a ratchet on steel. Crew vocals describe isolating stored energy, checking the line, and refusing to trust a label without testing. Make the chorus a joyful release only after the equipment is proven safe. Include one abrupt full-band stop before the phrase "prove the line is cold." Energetic, muscular, and precise without macho posturing. The safety process should feel like craft and mutual respect.
+Hard-driving workshop bluegrass-metal track with machine-tight banjo, fiddle, flat-picked guitar, upright bass, kick drum, and percussion evoking the textures of workshop tools (created from field recordings and foley; no interaction with live electrical equipment), and a [...]
 
 ## Generate
 
