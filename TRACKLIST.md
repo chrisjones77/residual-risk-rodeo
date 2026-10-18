@@ -7,6 +7,8 @@ Approximate running time: 38:18
 
 The [public Suno playlist](https://suno.com/playlist/15603b83-a0dc-4bc9-bc27-f593b971e1fc) is the current listening canon.
 
+The recordings are AI-assisted/generated works documented for creative provenance. Safety language throughout the album is fictional satire and is not operational, legal, or engineering guidance. Workshop candidates and local source audio are not included in this public package.
+
 | # | Track | Canonical recording |
 |---:|---|---|
 | 01 | Residual Risk Rodeo | [Suno](https://suno.com/song/45f1a60e-7c9b-4248-9957-522689ec4a36) |

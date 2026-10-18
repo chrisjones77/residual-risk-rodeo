@@ -5,6 +5,10 @@ Narrator: the maintenance crew
 Hazard: stored energy and assumptions  
 Emotional turn: the pause before work becomes an expression of respect
 
+## Fictional safety boundary
+
+This track uses lockout/tagout as creative and fictional worksite language. It is not an instruction to bypass isolation, verification, guarding, or competent supervision. The banjo enters only after the line is proven cold.
+
 ## Chorus seed
 
 Lock it out, tag it out, prove the line is cold / Then let the fiddle find the current and let the banjo roll.
